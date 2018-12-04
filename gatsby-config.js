@@ -2,13 +2,13 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'gatsby-starter-typescript-plus',
-    description: 'A starter kit for TypeScript-based Gatsby projects with sensible defaults.',
-    siteUrl: 'https://gatsby-starter-typescript-plus.netlify.com',
+    title: 'My Serverless App',
+    description: 'A serverless single page app using React/Gatsby',
+    siteUrl: 'https://master.d1fod7u7pkz168.amplifyapp.com/',
     author: {
-      name: 'Resi Respati',
-      url: 'https://twitter.com/resir014',
-      email: 'resir014@gmail.com'
+      name: 'Kunal Rao',
+      url: 'https://github.com/raokunal',
+      email: 'oarlanuk@gmail.com'
     }
   },
   plugins: [
